@@ -57,7 +57,7 @@ usr2.fill_virtual_path(rdw.steps, rdw.delta_t, None)
 usr3 = User([2.0, 0.0], 1.0, 3)
 usr3.fill_virtual_path(rdw.steps, rdw.delta_t, None)
 
-print(usr1)
+print(usr2)
 
 
 users = [usr1, usr2, usr3]
